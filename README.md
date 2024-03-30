@@ -1,7 +1,7 @@
-                                                                                               ```
-                                                                                               NAME    : V. POOJAA SREE
-                                                                                               REG. NO.: 212223040147
-                                                                                               ```
+                                                                                               
+                                                                                         NAME    : V. POOJAA SREE
+                                                                                         REG. NO.: 212223040147
+                                                                                               
 
                                                                                                                                                            
 # EX-5:  MUTIPLE SERVER WITH INFINITE CAPACITY - (M/M/c):(oo/FIFO)
